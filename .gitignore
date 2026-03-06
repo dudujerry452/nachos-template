@@ -1,0 +1,30 @@
+.vscode
+.direnv
+
+code/test/*.flat
+code/test/*.noff
+
+c++example/stack
+c++example/inheritstack
+c++example/templatestack
+
+# Auto-generated build output directories (created by make)
+code/*/arch/
+code/*/nachos
+code/bin/arch/
+code/nachos
+code/threads/nachos
+code/userprog/nachos
+code/filesys/nachos
+code/network/nachos
+code/monitor/nachos
+code/bin/coff2noff
+code/bin/coff2flat
+
+standard
+
+!Nachos-3.4-SDU (for lecture)
+!Nachos-3.4-SDU (for lecture)/*
+!Nachos-3.4-SDU (for lecture)/**/*
+
+*.docx
